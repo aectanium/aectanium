@@ -6,4 +6,5 @@
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052CC)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aectanium)](https://github.com/anuraghazra/github-readme-stats)
