@@ -1,4 +1,4 @@
-<img src="https://cdn.shopify.com/s/files/1/0965/7874/articles/believe-01.png?v=1544615290" width="900" height="400">
+<img src="https://cdn.shopify.com/s/files/1/0965/7874/articles/believe-01.png?v=1544615290" width="600" height="300">
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/aectan1987)
