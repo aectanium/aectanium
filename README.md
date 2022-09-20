@@ -1,4 +1,4 @@
-<img src="https://awayne.biz/wp-content/uploads/2021/05/kursy-qa-preview.png" alt="The Unlimited" width="1000"/>
+<img src="https://awayne.biz/wp-content/uploads/2021/05/kursy-qa-preview.png" alt="The Unlimited" width="800"/>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/aectan1987)
