@@ -1,4 +1,4 @@
-<img src="https://3mu.ru/wp-content/uploads/2021/04/test-02.png" alt="The Unlimited" width="900"/>
+<img src="https://w7.pngwing.com/pngs/98/537/png-transparent-typography-lettering-logo-black-and-white-calligraphy-mahakal-text-text-photography-monochrome.png" alt="The Unlimited" width="600"/>
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/aectan1987)
