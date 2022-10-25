@@ -1,4 +1,4 @@
-[![Header](https://drive.google.com/file/d/1AtAPi9nQ2Y6des-5v5nL9WpxZuk6DNv6/view?usp=sharing]
+[![Header](https://github.com/aectanium/aectanium/blob/main/image.png]
 ## I'm a QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1gH5UBHwOapsqKmgLx3KPBMqatX_aeRzQ/view?usp=sharing)
