@@ -1,4 +1,4 @@
-[![Header](https://github.com/artichokeee/artichokeee/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
+[![Header](https://drive.google.com/file/d/1AtAPi9nQ2Y6des-5v5nL9WpxZuk6DNv6/view?usp=sharing]
 ## I'm a QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1gH5UBHwOapsqKmgLx3KPBMqatX_aeRzQ/view?usp=sharing)
