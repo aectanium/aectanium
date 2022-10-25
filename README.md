@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)]
+![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)
 ## I'm a QA Engineer. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1gH5UBHwOapsqKmgLx3KPBMqatX_aeRzQ/view?usp=sharing)
