@@ -1,7 +1,7 @@
 ![Header](https://github.com/aectanium/aectanium/blob/main/image.png)
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/11wPywOWT8PM7_6-E-WCphhcSr0CFWHF8/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1stICpKWQlJz8Mqm8zzXFa8V8zYRsEOne/view?usp=sharing)
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
